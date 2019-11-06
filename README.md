@@ -1,4 +1,4 @@
-#Steps to runt his projects
+# Steps to runt his projects
 
 1.)Install Jira Software using below link for your system
   link: https://www.atlassian.com/software/jira/download
